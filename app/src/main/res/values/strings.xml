@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DashboardApp</string>
+    <string name="fragment_dashboard">Dashboard</string>
+    <string name="fragment_favourites">Favourite</string>
+    <string name="fragment_home">Home</string>
+    <string name="node_users">users</string>
+    <string name="account">Account</string>
+</resources>
